@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://1f3v.vercel.app/">Découvrir mon site ↗</a>
+  <a href="https://1f3v.vercel.app/"><img src="./assets/site-button.svg" width="224" height="52" alt="Découvrir mon site" /></a>
 </p>
 
 <br />
