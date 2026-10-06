@@ -4,10 +4,10 @@
   <img src="./assets/avatar-rounded.png" width="150" alt="Avatar de 1fever" />
 </p>
 <p align="center">
-  <img src="./assets/name.png" width="320" alt="1fever" />
+  <img src="./assets/name-site.png" width="214" alt="1fever" />
 </p>
 <p align="center">
-  <img src="./assets/bio-readable.png" width="185" alt="aka 1f3v, ex notrafaa" />
+  <img src="./assets/bio-site.png" width="164" alt="aka 1f3v, ex notrafaa" />
 </p>
 
 <br />
