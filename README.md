@@ -1,36 +1,30 @@
-<p align="center">
-  <img src="./assets/avatar.png" alt="Avatar de 1fever" width="140" />
-</p>
-
-<h1 align="center">1fever</h1>
-<p align="center"><sub>alias 1f3v</sub></p>
+<br />
 
 <p align="center">
-  Je construis des interfaces qui ont leur propre ambiance.<br />
-  Du mouvement, de la musique et une attention particulière aux détails.
+  <img src="./assets/avatar-rounded.png" width="150" alt="Avatar de 1fever" />
 </p>
+<p align="center">
+  <img src="./assets/name.png" width="320" alt="1fever" />
+</p>
+<p align="center">aka 1f3v, ex notrafaa</p>
 
 <br />
 
-### En ce moment
-
-Je développe mon espace personnel : une page de profil interactive avec effets 3D, lecteur audio, paroles synchronisées et édition en direct.
-
-Le même soin sur ordinateur et sur mobile.
-
-<br />
-
-### Mes outils
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=90c9db" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=8db6df" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Framer_Motion-161b22?style=flat-square&logo=framer&logoColor=c6b1ef" alt="Framer Motion" />
+<p align="center">
+  <a href="https://www.tiktok.com/@onefever"><img src="./assets/tiktok.svg" width="54" height="54" alt="TikTok" /></a>
+  <a href="https://discord.com/users/1fever"><img src="./assets/discord.svg" width="54" height="54" alt="Discord" /></a>
+  <a href="https://www.instagram.com/1fever"><img src="./assets/instagram.svg" width="54" height="54" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@1fever"><img src="./assets/youtube.svg" width="54" height="54" alt="YouTube" /></a>
+  <a href="https://x.com/1fever"><img src="./assets/x.svg" width="54" height="54" alt="X" /></a>
+  <a href="https://www.twitch.tv/1fever"><img src="./assets/twitch.svg" width="54" height="54" alt="Twitch" /></a>
+  <a href="https://github.com/1f3v"><img src="./assets/github.svg" width="54" height="54" alt="GitHub" /></a>
 </p>
 
 <br />
 
 <p align="center">
-  <sub>1fever · alias 1f3v</sub>
+  <a href="https://open.spotify.com/intl-fr/track/3Yju92MQktSGHOcQyDHiBr?si=c7f9b77a819e4f91">♫ Criminel chante - Nouvelle École x CUPRA</a><br />
+  <sub>Nayte, Nouvelle École</sub>
 </p>
+
+<br />
