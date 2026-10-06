@@ -10,6 +10,10 @@
   <img src="./assets/bio-site.png" width="164" alt="aka 1f3v, ex notrafaa" />
 </p>
 
+<p align="center">
+  <a href="https://1f3v.vercel.app/">Découvrir mon site ↗</a>
+</p>
+
 <br />
 
 <p align="center">
