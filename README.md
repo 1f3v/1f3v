@@ -7,7 +7,7 @@
   <img src="./assets/name.png" width="320" alt="1fever" />
 </p>
 <p align="center">
-  <img src="./assets/bio.png" width="300" alt="aka 1f3v, ex notrafaa" />
+  <img src="./assets/bio-readable.png" width="260" alt="aka 1f3v, ex notrafaa" />
 </p>
 
 <br />
